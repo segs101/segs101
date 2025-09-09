@@ -1,4 +1,4 @@
-## Hi there 👋
+[![MasterHead](your image link)](https://github.com/segs101/segs101/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segs101)](https://github.com/segs101/github-readme-stats)
 <!--
 **segs101/segs101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
